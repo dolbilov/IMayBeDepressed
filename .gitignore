@@ -1,3 +1,7 @@
+# code format configs
+.editorconfig
+.prettierrc.json
+
 # Created by https://www.toptal.com/developers/gitignore/api/node,macos,windows,visualstudiocode,webstorm+all,web
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,macos,windows,visualstudiocode,webstorm+all,web
 
@@ -8,7 +12,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
