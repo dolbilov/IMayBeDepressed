@@ -1,0 +1,18 @@
+@import './utils/vars.scss';
+@import './pages/Home/styles.scss';
+@import './components/Button/styles.scss';
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    background: $color-bg;
+}
+
+div#root {
+    font-family: Arial, Helvetica, sans-serif;
+    // Safari font fix
+    -webkit-font-smoothing: antialiased;
+}
